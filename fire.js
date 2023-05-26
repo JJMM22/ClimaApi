@@ -2,19 +2,19 @@ var firebase = require('firebase')
 // datos de firebase
 var config = {
 
-  apiKey: "AIzaSyB-BCUnOF-R5qSYSs05xMaKT1yjlURemeE",
+  apiKey: "AIzaSyAFSMbZ3kbr4i7ITJmJe28xyX0F65eAeSw",
 
-  authDomain: "apiclima-dc114.firebaseapp.com",
+  authDomain: "proyectclima.firebaseapp.com",
 
-  databaseURL: "https://apiclima-dc114-default-rtdb.firebaseio.com",
+  databaseURL: "https://proyectclima-default-rtdb.firebaseio.com",
 
-  projectId: "apiclima-dc114",
+  projectId: "proyectclima",
 
-  storageBucket: "apiclima-dc114.appspot.com",
+  storageBucket: "proyectclima.appspot.com",
 
-  messagingSenderId: "912064105443",
+  messagingSenderId: "982720757168",
 
-  appId: "1:912064105443:web:869138e218d8854628eed6"
+  appId: "1:982720757168:web:b29fc7b7f3ab02e09d2a75"
 };
 
 const fire = firebase.initializeApp(config);
